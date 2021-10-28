@@ -3,7 +3,7 @@ import java.util.ArrayList;
 /** ThreadCheckArray 
  * @author Raz Avraham
  * @author Natali Krief
- */
+ *///
 public class ThreadCheckArray implements Runnable 
 {
 	private boolean flag;
