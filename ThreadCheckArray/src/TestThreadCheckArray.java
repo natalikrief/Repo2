@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /** Test class for ThreadCheckArray
  * @author Natali Krief
- * 
+ * @author Raz Avraham
  */
 public class TestThreadCheckArray {
 	public static void main(String[] args) {
