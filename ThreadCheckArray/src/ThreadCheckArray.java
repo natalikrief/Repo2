@@ -1,6 +1,6 @@
-/**
+/** ThreadCheckArray 
  * @author Raz Avraham
- * 
+ * @author Natali Krief
  */
 public class ThreadCheckArray implements Runnable 
 {
